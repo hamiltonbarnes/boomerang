@@ -5,7 +5,7 @@ angular.module('gdgXBoomerang')
         'name'          : 'GDG University Of Cape Coast',
         'id'            : '108678197502943958813',
         'googleApi'     : '<AIzaSyDGCCwpA3dEYkvrsBKBBdWXNjHpK2B5jV0>',
-        'pwaId'         : '5915725140705884785', // Picasa Web Album id, must belong to Google+ id above
+        'pwaId'         : 'https://get.google.com/albumarchive/101065155970756164483/album/AF1QipMYicekFcJuuDiEnZYzsmcKccQUW4Qdc7MeU40U', // Picasa Web Album id, must belong to Google+ id above
         'domain'        : 'http://www.gdgucc.org',
         'twitter'       : 'gdgucc',
         'facebook'      : 'gdguniveristy of cape coast',
